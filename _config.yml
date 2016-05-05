@@ -1,0 +1,28 @@
+name: Shop497
+favicon: null
+layout_spectrum: 0.48456766502931714
+typography_spectrum: 0.784625033615157
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8714308505877852
+  lightness: 0.08872281759977341
+  saturation: 0.763986241305247
+  rhythmicContrast: 0.53062605089508
+purpose: []
